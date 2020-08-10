@@ -7,5 +7,3 @@ Nokogiri :: HTML(html)
 
 doc = Nokogiri :: HTML(html)
 binding.pry
-
-
